@@ -1,3 +1,5 @@
+Deployment Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d670388-1db1-4863-82a6-d65d1a1eddb0/deploy-status)](https://app.netlify.com/sites/rad-croquembouche-da4cb3/deploys)
 ## Font Size Units
 ### em
 em is a relative unit. 1em is equal to the current font size. If you specify font-size: 2em on an element that has a font-size of 16px (the browser default), 2em will resolve to 32px.
